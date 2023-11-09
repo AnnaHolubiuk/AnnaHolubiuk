@@ -10,7 +10,7 @@
 
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
-<img align="right" width="610" height="512" src= "https://ugokawaii.com/wp-content/uploads/2022/12/QA.gif">
+<img align="right" width="610" height="512" src= "https://kratikal.com/blog/wp-content/uploads/2023/09/Gif-2.gif">
 <br>
 
 ## Languages and Tools:
