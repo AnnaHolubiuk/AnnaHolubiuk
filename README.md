@@ -56,5 +56,5 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20Let's%20make%20software%20testing%20better%20together%20:)&font=Fira%20Code&center=true&width=600&height=45&color=FFA500&vCenter=true&pause=1100&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20Let's%20make%20software%20testing%20better%20together%20:)&font=Fira%20Code&center=true&width=700&height=45&color=FFA500&vCenter=true&pause=1100&size=22" /></a>
 </p>
